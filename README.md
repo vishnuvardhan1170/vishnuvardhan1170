@@ -32,4 +32,4 @@ I like automating repetitive tasks, building reliable CI/CD pipelines, and worki
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/vishnu-sadula](https://www.linkedin.com/in/vishnu-sadula/)
+- 💼 **LinkedIn:** [linkedin.com/in/saivishnuvardhan9](https://www.linkedin.com/in/saivishnuvardhan9/)
