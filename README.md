@@ -1,4 +1,4 @@
-# Hi there, I'm Vishnu 👋
+# Hi there, I'm Vishnu Vardhan 👋
 
 I like automating repetitive tasks, building reliable CI/CD pipelines, and working with cloud-native technologies. I like learning how systems work, troubleshooting deployment issues, and turning manual processes into simple, repeatable workflows.
 
