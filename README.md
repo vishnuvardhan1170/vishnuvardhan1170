@@ -1,35 +1,33 @@
-# Hi there, I'm Vishnu Vardhan 👋
+# Sai Vishnu Vardhan Sadula
 
-I like automating repetitive tasks, building reliable CI/CD pipelines, and working with cloud-native technologies. I like learning how systems work, troubleshooting deployment issues, and turning manual processes into simple, repeatable workflows.
-
----
-
-### 🛠️ Core Skills
-
-- **CI/CD:** Jenkins, GitHub Actions, GitHub, Git branching, Pull Requests
-- **Containers & Orchestration:** Docker, Kubernetes, Amazon EKS
-- **AWS:** EC2, EKS, S3, IAM, CloudWatch
-- **Scripting & OS:** Python, Shell scripting & Linux, Ubuntu
-- **Monitoring & Logging:** Prometheus, Grafana, AWS CloudWatch
-- **Version Control:** Git, GitHub
-- **IaC & Configuration:** Terraform
+DevOps engineer focused on CI/CD, GitOps, and cloud-native infrastructure.
 
 ---
 
-### 🚀 Technical Projects
+### Skills
 
-#### 🏗️ [AWS Infrastructure Automation with Terraform & Jenkins CI/CD](https://github.com/Vishnu-sadula/Victus.git)
-- Automated AWS infrastructure provisioning using reusable Terraform modules, variables, workspaces, remote state, and state locking across Development and Staging environments.
-- Built Jenkins CI/CD workflows with Terraform validation, pull request plan generation, infrastructure deployment, Docker image build, testing, and container registry push stages.
-- Implemented IAM and security validation checks in the pipeline to improve infrastructure governance and prevent risky or unauthorized changes.
-
-#### ☸️ [Containerized Microservices Deployment on Kubernetes](https://github.com/Vishnu-sadula/zenith.git)
-- Containerized a Python/Flask microservice and MongoDB using Docker, creating repeatable builds and consistent application environments.
-- Deployed the application to Kubernetes using Deployments, Services, ConfigMaps, health probes, rolling updates, and PersistentVolumeClaims.
-- Troubleshot pod failures, application startup issues, service connectivity, storage, and container configuration problems to maintain reliable deployments.
+- **CI/CD:** GitHub Actions, Jenkins
+- **Cloud:** GCP (GKE, Artifact Registry, WIF, VPC)
+- **Containers:** Docker, Kubernetes, ArgoCD, Argo Rollouts
+- **IaC:** Terraform
+- **Languages:** Python, Shell
+- **Security:** Trivy, Bandit, pip-audit
 
 ---
 
-### 📬 Connect With Me
+### Projects
 
-- 💼 **LinkedIn:** [linkedin.com/in/saivishnuvardhan9](https://www.linkedin.com/in/saivishnuvardhan9/)
+**[zorin-app](https://github.com/vishnuvardhan1170/zorin-app)** — Flask + MongoDB app with full CI/CD → GitOps pipeline to GKE.
+GitHub Actions (lint → test → scan → build → Trivy → push) → ArgoCD → Argo Rollouts canary (10→30→60→100%). WIF for GCP auth, PAT for GitOps repo.
+
+**[zorin-terraform](https://github.com/vishnuvardhan1170/zorin-terraform)** — Terraform modules for VPC, GKE, Artifact Registry, ArgoCD. GitHub OIDC → WIF, GCS remote state, plan/apply via Actions.
+
+**[zenith](https://github.com/Vishnu-sadula/zenith)** — Flask microservice + MongoDB on GKE. Deployments, Services, PVCs, health probes.
+
+**[Victus](https://github.com/Vishnu-sadula/Victus)** — AWS infra automation with Terraform + Jenkins CI/CD.
+
+---
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saivishnuvardhan9)
