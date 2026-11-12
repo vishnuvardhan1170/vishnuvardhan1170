@@ -7,7 +7,7 @@ DevOps engineer focused on CI/CD, GitOps, and cloud-native infrastructure.
 ### Skills
 
 - **CI/CD:** GitHub Actions, Jenkins
-- **Cloud:** GCP (GKE, Artifact Registry, WIF, VPC)
+- **Cloud:** GCP (GKE, Artifact Registry, WIF, VPC), AWS(ECR, EKS, VPC)
 - **Containers:** Docker, Kubernetes, ArgoCD, Argo Rollouts
 - **IaC:** Terraform
 - **Languages:** Python, Shell
